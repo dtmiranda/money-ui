@@ -1,1 +1,18 @@
 
+label{
+  font-weight: bold;
+}
+
+
+button{
+  margin-top: 1rem;
+}
+
+
+@media(min-width: 1200px){
+  .container{
+    width: 1170px;
+    margin: 0 auto;
+  }
+
+}
