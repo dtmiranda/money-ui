@@ -16,3 +16,12 @@ button{
   }
 
 }
+
+.col-data{
+  width: 1rem;
+  text-align: center;
+}
+
+.col-valor{
+  text-align: right;
+}

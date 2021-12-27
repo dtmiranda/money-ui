@@ -5,6 +5,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { InputTextModule } from 'primeng/inputtext';
 import {ButtonModule} from 'primeng/button';
 import { TableModule } from 'primeng/table'
+import{ CalendarModule } from 'primeng/calendar'
 
 
 import { AppComponent } from './app.component';
@@ -18,6 +19,7 @@ import { AppComponent } from './app.component';
     InputTextModule,
     ButtonModule,
     TableModule,
+    CalendarModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
